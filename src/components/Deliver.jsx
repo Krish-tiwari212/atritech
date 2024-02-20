@@ -15,9 +15,9 @@ const Deliver = () => {
         We empower your team with in-depth training, equipping them to maximize the potential of your new website, app, or platform.
         </p>
         <p>
-        We're here to support a successful launch, monitoring performance, addressing any initial issues, and fine-tuning for optimal user experience.
-        We don't disappear after launch. We believe in fostering long-term partnerships, offering ongoing maintenance, support, and strategic guidance to ensure your digital solution thrives.
-        he Deliver Phase is more than just delivering a product; it's delivering results. We celebrate your success as our own, providing the ongoing support and expertise you need to maximize the impact of your digital presence.
+        We&apos;re here to support a successful launch, monitoring performance, addressing any initial issues, and fine-tuning for optimal user experience.
+        We don&apos;t disappear after launch. We believe in fostering long-term partnerships, offering ongoing maintenance, support, and strategic guidance to ensure your digital solution thrives.
+        he Deliver Phase is more than just delivering a product; it&apos;s delivering results. We celebrate your success as our own, providing the ongoing support and expertise you need to maximize the impact of your digital presence.
         </p>
       </div>
       <h3 className="mt-12 mb-6 font-display text-base font-semibold text-neutral-950">

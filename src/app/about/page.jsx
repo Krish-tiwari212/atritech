@@ -19,7 +19,7 @@ const AboutPage = () => {
             We work closely with our clients, understanding their unique needs and goals to become an extension of their team.
           </p>
           <p>
-            At Atri, we’re more than just colleagues — we’re a family. 
+            At Atri, we&apos;re more than just colleagues — we&apos;re a family. 
             We encourage open dialogue and feedback, ensuring everyone feels heard and valued, leading to better outcomes.
             We acknowledge and celebrate the contributions of every individual, fostering a sense of ownership and shared accomplishment.
             By combining different strengths and perspectives, we create solutions that exceed expectations.

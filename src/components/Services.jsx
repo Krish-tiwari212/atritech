@@ -15,7 +15,7 @@ const Services = () => {
         className="mt-24 sm:mt-32 lg:mt-40"
       >
         <p>
-        Don't let opportunities pass you by. We empower you to discover exciting possibilities, delve deeper into their potential, and take decisive action to leverage them for success.
+        Don&apos;t let opportunities pass you by. We empower you to discover exciting possibilities, delve deeper into their potential, and take decisive action to leverage them for success.
         </p>
       </SectionIntro>
       <Container className="mt-16">

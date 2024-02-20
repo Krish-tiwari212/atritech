@@ -19,7 +19,7 @@ const Values = () => {
       >
         <p>
           We strive to stay at the forefront of emerging trends and
-          technologies, at Atri Technologies, we don't just build websites and apps, we build relationships. Fueled by a shared passion for digital excellence, our core values guide every interaction and decision:
+          technologies, at Atri Technologies, we don&apos;t just build websites and apps, we build relationships. Fueled by a shared passion for digital excellence, our core values guide every interaction and decision:
         </p>
       </SectionIntro>
       <Container className="mt-24">
@@ -28,7 +28,7 @@ const Values = () => {
           We believe in the power of collective brilliance. Through open communication, diverse perspectives, and teamwork, we unlock the full potential of every project.
           </GridListItem>
           <GridListItem title="Innovation">
-          We don't shy away from the cutting edge. We embrace emerging technologies and explore bold ideas, constantly pushing the boundaries of what's possible.
+          We don&apos;t shy away from the cutting edge. We embrace emerging technologies and explore bold ideas, constantly pushing the boundaries of what&apos;s possible.
           </GridListItem>
           <GridListItem title="Integrity">
           Trust is paramount. We act with honesty, transparency, and ethical responsibility in everything we do, building lasting relationships with our clients and partners.
@@ -37,10 +37,10 @@ const Values = () => {
           We are driven by a genuine love for the digital world. Our infectious enthusiasm translates into dedication, meticulous attention to detail, and a commitment to crafting exceptional experiences.
           </GridListItem>
           <GridListItem title="Loyal">
-          We're not just your service provider, we're your long-term partner. We believe in fostering true connections, understanding your unique needs, and going above and beyond to ensure your ongoing success.
+          We&apos;re not just your service provider, we&apos;re your long-term partner. We believe in fostering true connections, understanding your unique needs, and going above and beyond to ensure your ongoing success.
           </GridListItem>
           <GridListItem title="Innovative">
-          We understand that loyalty alone isn't enough. That's why we combine our dedication to you with a relentless pursuit of innovation. We explore cutting-edge technologies, embrace bold ideas, and constantly push the boundaries of what's possible, delivering groundbreaking solutions that fuel your growth.
+          We understand that loyalty alone isn&apos;t enough. That&apos;s why we combine our dedication to you with a relentless pursuit of innovation. We explore cutting-edge technologies, embrace bold ideas, and constantly push the boundaries of what's possible, delivering groundbreaking solutions that fuel your growth.
           </GridListItem>
         </GridList>
       </Container>

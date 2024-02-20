@@ -14,7 +14,7 @@ const WorkPage = () => {
       >
         <p>
           We believe in efficiency and maximizing our resources to provide the
-          best value to our clients. Our team of experts doesn't shy away from complexity. We've tackled diverse industry-level projects, honing our skills to deliver exceptional results tailored to your unique needs.
+          best value to our clients. Our team of experts doesn&apos;t shy away from complexity. We&apos;ve tackled diverse industry-level projects, honing our skills to deliver exceptional results tailored to your unique needs.
         </p>
       </PageIntro>
       <PageIntro

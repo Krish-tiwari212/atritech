@@ -8,7 +8,7 @@ const Build = () => {
     <Section title="Build" image={{ src: imageLaptop, shape: 2 }}>
       <div className="space-y-6 text-base text-neutral-600">
         <p>
-        With the foundation laid in the Discovery Phase, we embark on the exciting Build Phase, where your vision transforms into a tangible digital reality. We believe in a collaborative and agile approach, ensuring you're involved every step of the way.
+        With the foundation laid in the Discovery Phase, we embark on the exciting Build Phase, where your vision transforms into a tangible digital reality. We believe in a collaborative and agile approach, ensuring you&apos;re involved every step of the way.
         </p>
         <p>
         Our expert team translates your requirements into a robust and scalable technical architecture, designed for performance and future growth.

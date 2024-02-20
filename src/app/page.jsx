@@ -15,7 +15,7 @@ export default function Home() {
             Make your online presence a reality with us!
           </h1>
           <p className="mt-6 text-xl text-neutral-600">
-          Don't let technology hold you back. At Atri, we bridge the gap between your vision and reality. From concept to code, we empower you with intuitive interfaces, seamless user experiences, and future-proof solutions. Start your free consultation today!
+          Don&apos;t let technology hold you back. At Atri, we bridge the gap between your vision and reality. From concept to code, we empower you with intuitive interfaces, seamless user experiences, and future-proof solutions. Start your free consultation today!
           </p>
         </FadeIn>
       </Container>
