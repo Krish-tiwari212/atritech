@@ -40,7 +40,7 @@ const Values = () => {
           We&apos;re not just your service provider, we&apos;re your long-term partner. We believe in fostering true connections, understanding your unique needs, and going above and beyond to ensure your ongoing success.
           </GridListItem>
           <GridListItem title="Innovative">
-          We understand that loyalty alone isn&apos;t enough. That&apos;s why we combine our dedication to you with a relentless pursuit of innovation. We explore cutting-edge technologies, embrace bold ideas, and constantly push the boundaries of what's possible, delivering groundbreaking solutions that fuel your growth.
+          We understand that loyalty alone isn&apos;t enough. That&apos;s why we combine our dedication to you with a relentless pursuit of innovation. We explore cutting-edge technologies, embrace bold ideas, and constantly push the boundaries of what&apos;s possible, delivering groundbreaking solutions that fuel your growth.
           </GridListItem>
         </GridList>
       </Container>

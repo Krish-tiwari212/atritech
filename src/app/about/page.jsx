@@ -10,7 +10,7 @@ const AboutPage = () => {
     <>
       <PageIntro eyebrow="About us" title="Our strength is collaboration">
         <p>
-        At Atri Technologies, we know that great things don't happen in silos. That's why collaboration is the cornerstone of everything we do, from the way we approach projects to the relationships we build with our clients.
+        At Atri Technologies, we know that great things don&apos;t happen in silos. That&apos;s why collaboration is the cornerstone of everything we do, from the way we approach projects to the relationships we build with our clients.
         </p>
         <div className="mt-10 max-w-2xl space-y-6 text-base">
           <p>
