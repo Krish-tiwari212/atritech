@@ -4,6 +4,10 @@ import clsx from "clsx";
 import React from "react";
 import raccoon from "@/images/raccoon.png";
 import portfolio from "@/images/portfolio.png";
+import travor from "@/images/travor.png";
+import avidya from "@/images/avidya.png";
+import homeroom from "@/images/kahoot.jpeg"
+
 
 const WorkPage = () => {
   return (
@@ -33,10 +37,32 @@ const WorkPage = () => {
         project={true}
         className=""
         eyebrow="Few of our Projects"
-        title="Portfolio"
+        title="Avidya Ecommerce Store"
       >
         <div className="mt-10">
-        <ProjectCard color="border-2" cl="card" url="https://raccoon-tshirt.onrender.com/" name="Portfolio" year="2024" image={portfolio} techstack="React.js, Next.js, Postman"/>
+        <ProjectCard color="border-2" cl="card" url="https://avidya.onrender.com/" name="Avidya" year="2024" image={avidya} techstack="React.js, Flask, Snipcart, Pico Css"/>
+        </div>
+      </PageIntro>
+      <PageIntro
+        projects={false}
+        project={true}
+        className=""
+        eyebrow="Few of our Projects"
+        title="Travor"
+      >
+        <div className="mt-10">
+        <ProjectCard color="border-2" cl="card" url="https://travor.onrender.com/" name="Travor" year="2024" image={travor} techstack="React.js, Tailwind, Postman, flask"/>
+        </div>
+      </PageIntro>
+      <PageIntro
+        projects={false}
+        project={true}
+        className=""
+        eyebrow="Few of our Projects"
+        title="Homeroom"
+      >
+        <div className="mt-10">
+        <ProjectCard color="border-2" cl="card" url="#" name="Homeroom" year="2024" image={homeroom} techstack="Flutter, Fastapi, Postman"/>
         </div>
       </PageIntro>
     </>
