@@ -4,6 +4,9 @@ import Cultures from "@/components/Cultures";
 import PageIntro from "@/components/PageIntro";
 import { StatList, StatListItem } from "@/components/StatList";
 import React from "react";
+import dsh from "@/images/dsh.png";
+import krish from "@/images/krish.png";
+import Image from "next/image";
 
 const AboutPage = () => {
   return (
@@ -32,6 +35,18 @@ const AboutPage = () => {
           <StatListItem value="52+" label="Clients Happy" />
           <StatListItem value="$25M+" label="Profit Generated" />
         </StatList>
+      </Container>
+      <Container className="mt-16">
+        <div className="flex flex-wrap">
+          <div>
+            <Image src={krish} className="w-1/2" alt="" srcset="" />
+            <p className="text-black mt-4 text-center mr-[50%]">Krish Tiwari<br/> <em>Founder</em></p>
+          </div>
+          <div className="mt-16">
+            <Image src={dsh} className="w-1/2" alt="" srcset="" />
+            <p className="text-black mt-4 text-center mr-[50%]">Dushant Sharma<br/> <em>CEO</em></p>
+          </div>
+        </div>
       </Container>
       <Cultures />
       <ContactSection />

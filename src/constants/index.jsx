@@ -4,7 +4,7 @@ export const navigation = [
   {
     title: "Work",
     links: [
-      { title: "Portfolio", href: "https://krishtiwari.vercel.app/" },
+      { title: "Crave Medias", href: "https://cravemedias.com/" },
       { title: "Raccoon", href: "https://raccoon-tshirt.onrender.com/" },
       { title: "Groco", href: "http://groco.onrender.com/" },
       {

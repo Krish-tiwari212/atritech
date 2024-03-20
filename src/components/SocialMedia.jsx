@@ -7,6 +7,7 @@ import {
   BsYoutube,
   BsLinkedin,
   BsInstagram,
+  BsTelegram,
 } from "react-icons/bs";
 
 export const SocialMediaProfiles = [
@@ -15,17 +16,7 @@ export const SocialMediaProfiles = [
     href: "https://www.instagram.com/atritechnologies/",
     icon: BsInstagram,
   },
-  { title: "GitHub", href: "https://github.com/Krish-tiwari212", icon: BsGithub },
-  {
-    title: "linkedin",
-    href: "",
-    icon: BsLinkedin,
-  },
-  {
-    title: "Twitter",
-    href: "",
-    icon: BsTwitter,
-  },
+  { title: "Telegram", href: "https://t.me/atritechnologies", icon: BsTelegram },
 ];
 
 const SocialMedia = ({ className, invert = false }) => {
