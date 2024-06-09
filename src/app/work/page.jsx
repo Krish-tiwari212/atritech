@@ -36,7 +36,6 @@ const WorkPage = () => {
         projects={false}
         project={true}
         className=""
-        eyebrow="Few of our Projects"
         title="Raccoon Store"
       >
         <div className="mt-10">
@@ -47,7 +46,6 @@ const WorkPage = () => {
         projects={false}
         project={true}
         className=""
-        eyebrow="Few of our Projects"
         title="Avidya Ecommerce Store"
       >
         <div className="mt-10">
@@ -58,7 +56,6 @@ const WorkPage = () => {
         projects={false}
         project={true}
         className=""
-        eyebrow="Few of our Projects"
         title="Travor"
       >
         <div className="mt-10">
@@ -69,7 +66,6 @@ const WorkPage = () => {
         projects={false}
         project={true}
         className=""
-        eyebrow="Few of our Projects"
         title="Homeroom"
       >
         <div className="mt-10">
