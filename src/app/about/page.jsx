@@ -6,6 +6,7 @@ import { StatList, StatListItem } from "@/components/StatList";
 import React from "react";
 import dsh from "@/images/dsh.png";
 import krish from "@/images/krish.png";
+import sarthak from "@/images/sarthak.jpg";
 import Image from "next/image";
 
 const AboutPage = () => {
@@ -46,8 +47,9 @@ const AboutPage = () => {
             <Image src={dsh} className="w-1/2" alt="" srcset="" />
             <p className="text-black mt-4 text-center mr-[50%]">Dushant Sharma<br/> <em>CEO</em></p>
           </div>
-<div className="mt-16">
-            <p className="text-black mt-4 text-center mr-[50%]">Sarthak Tehlan<br/> <em>Marketing Executive</em></p>
+          <div className="mt-16">
+            <Image src={sarthak} className="w-1/2" alt="" srcset="" />
+            <p className="text-black mt-4 text-center mr-[50%]">Sarthak Tahlan<br/> <em>Marketing Specialist</em></p>
           </div>
         </div>
       </Container>
