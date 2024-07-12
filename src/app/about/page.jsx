@@ -46,6 +46,9 @@ const AboutPage = () => {
             <Image src={dsh} className="w-1/2" alt="" srcset="" />
             <p className="text-black mt-4 text-center mr-[50%]">Dushant Sharma<br/> <em>CEO</em></p>
           </div>
+<div className="mt-16">
+            <p className="text-black mt-4 text-center mr-[50%]">Sarthak Tehlan<br/> <em>Marketing Executive</em></p>
+          </div>
         </div>
       </Container>
       <Cultures />
